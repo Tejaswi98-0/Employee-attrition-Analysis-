@@ -86,3 +86,10 @@ By identifying trends across departments, job roles, and demographics, we can su
 - *Excel* – Data Cleaning & Transformation  
 - *MySQL* – SQL Queries & Data Analysis  
 - *Power BI* – Data Visualization & Dashboard Design
+
+- 
+## 🧠 Author
+*Tejaswini Padalwar*  
+Aspiring Data Analyst | Excel • SQL • Power BI | [https://github.com/Tejaswi98-0/Employee-attrition-Analysis-/edit/main/README.md] | [www.linkedin.com/in/tejaswini-padalwar-145a3210b]
+
+---
